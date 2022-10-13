@@ -1,1 +1,0 @@
-/home/wes/obsidian/brainCell/Project Notes/Server/transmission.md
