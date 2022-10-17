@@ -11,6 +11,7 @@ services:
             - OPENVPN_USERNAME=OPENVPN_USERNAME
             - OPENVPN_PASSWORD=OPENVPN_PASSWORD
             - LOCAL_NETWORK=LOCAL_NETWORK_CIDR
+            - TRANSMISSION_WEB_UI=combustion
         logging:
             driver: json-file
             options:
